@@ -1,6 +1,6 @@
 {
 	"name": "quill-video-responsive",
-	"version": "1.0.0",
+	"version": "1.0.3",
 	"description": "A module for Quill rich text editor to allow videos to be responsible",
 	"main": "src/VideoResponsive.js",
 	"scripts": {
