@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/pblobp/quill-video-resize-module"
+		"url": "https://github.com/pblobp/quill-video-responsive"
 	},
 	"keywords": [
 		"quill",
@@ -21,7 +21,7 @@
 	"author": "@pblobp",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/pblobp/quill-video-resize-module/issues"
+		"url": "https://github.com/pblobp/quill-video-responsive/issues"
 	},
 	"devDependencies": {
 		"@babel/cli": "^7.7.5",
