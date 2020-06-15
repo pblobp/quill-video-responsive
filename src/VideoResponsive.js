@@ -29,7 +29,7 @@ class VideoResponsive extends BlockEmbed {
 
 	static value(domNode) {
 		const iframe = domNode.querySelector('iframe');
-		return iframe.getAttribute('src');
+		return iframe ? iframe.getAttribute('src') : '';
 	}
 };
 
